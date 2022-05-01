@@ -36,3 +36,5 @@
 -   [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/)
 
 -   [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)
+
+-   [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/)
