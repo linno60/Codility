@@ -38,3 +38,15 @@
 -   [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)
 
 -   [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/)
+
+-   [NumberOfDiscIntersections](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/)
+
+#### Lesson 7 - Stacks and Queues
+
+-   [Brackets](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)
+
+-   [Fish](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)
+
+-   [Nesting](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/)
+
+-   [StoneWall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)
