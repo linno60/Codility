@@ -50,3 +50,9 @@
 -   [Nesting](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/)
 
 -   [StoneWall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)
+
+#### Lesson 8 - Leader
+
+-   [Dominator](https://app.codility.com/programmers/lessons/8-leader/dominator/)
+
+-   [EquiLeader](https://app.codility.com/programmers/lessons/8-leader/equi_leader/)
