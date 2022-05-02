@@ -56,3 +56,11 @@
 -   [Dominator](https://app.codility.com/programmers/lessons/8-leader/dominator/)
 
 -   [EquiLeader](https://app.codility.com/programmers/lessons/8-leader/equi_leader/)
+
+#### Lesson 9 - Maximum slice problem
+
+-   [MaxProfit](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/)
+
+-   [MaxSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)
+
+-   [MaxDoubleSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)
