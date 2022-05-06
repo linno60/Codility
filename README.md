@@ -64,3 +64,13 @@
 -   [MaxSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)
 
 -   [MaxDoubleSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)
+
+#### Lesson 10 - Prime and composite numbers
+
+-   [CountFactors](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)
+
+-   [MinPerimeterRectangle](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/)
+
+-   [Flags](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/)
+
+-   [Peaks](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/)
